@@ -1,0 +1,2 @@
+python learn.py
+pause

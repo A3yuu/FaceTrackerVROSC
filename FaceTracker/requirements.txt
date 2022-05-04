@@ -1,0 +1,5 @@
+keras >= 2.8.0
+numpy >= 1.22.3
+opencv-python >= 4.5.5.64
+tensorflow >= 2.8.0
+h5py >= 3.1.0

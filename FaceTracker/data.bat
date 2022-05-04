@@ -1,0 +1,2 @@
+python data.py
+pause
