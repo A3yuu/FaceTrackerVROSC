@@ -1,2 +1,2 @@
-python run.py
+python run.py -1
 pause
